@@ -45,6 +45,7 @@ ___
 - **Biblio Craft**
 - **Draconic Evolution**
 - **Iron Chest**
+- **Useful Backpacks**
 - **Mo-Creatures**
 - **BiomesOPlenty**
 - **Ellie More Sweetness Valley**
