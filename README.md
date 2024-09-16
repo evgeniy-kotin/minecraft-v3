@@ -15,10 +15,10 @@ ___
 ## Файлы
 
 *Обязательны к установке. Без них не пустит на сервер.*</br>
-**Основные моды:** [MinecraftModsV3_Main-1.0.0.zip](https://github.com/evgeniy-kotin/minecraft-v3)
+**Основные моды:** [MinecraftModsV3_Main-1.0.0.zip](https://disk.yandex.ru/d/9hFd_7J4hGP6pw)
 
 *Упрощают некоторые аспекты игры, такие как сортировка, мини карта и тд.*</br>
-**Вспомогательные моды:** [MinecraftModsV3_Client-1.0.0.zip](https://github.com/evgeniy-kotin/minecraft-v3)
+**Вспомогательные моды:** [MinecraftModsV3_Client-1.0.0.zip](https://disk.yandex.ru/d/P2zR9qGWa9Kp2A)
 
 ___
 
