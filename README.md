@@ -29,6 +29,7 @@ ___
   - *Advanced Machines*
   - *Gravitation Suite*
   - *Combo Armors*
+  - *Electro Magic Tools*
   - *tatw*
   - *oresalleasy*
 - **Applied Energistics**
@@ -36,6 +37,12 @@ ___
   - *Extra Cells*
 - **Thaumcraft**
   - *Thaumic Tinkerer*
+  - *Thaumic Additions: reconstructed*
+  - *Thaumic Augmentation*
+  - *Baubles*
+  - *Thaumic Bases*
+  - *Crimson Revelations*
+  - *Thaumic Periphery*
 - **Forestry**
   - *Binnie's Mods*
 - **Tinker Construct**
@@ -49,3 +56,7 @@ ___
 - **Mo-Creatures**
 - **BiomesOPlenty**
 - **Ellie More Sweetness Valley**
+- **The Twilight Forest**
+- **Replanting Crops**
+- **Ice and Fire**
+- **Cosmetic Armor Reworked**
