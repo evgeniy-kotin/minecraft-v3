@@ -25,6 +25,8 @@ ___
 
 ## Скачать сборки модов
 
+### [Гайд по запуску сборки](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/how-to-play.md)
+
 *Обязательны к установке. Без них не пустит на сервер.*</br>
 *Последнее обновление: 17.09.2024 17:30 UTC+3*</br>
 **Основные моды:** [MinecraftModsV3_Main-1.1.0.zip](https://disk.yandex.ru/d/xBx8I-RqsypGEw)
