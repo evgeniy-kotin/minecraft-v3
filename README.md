@@ -30,12 +30,7 @@ ___
 ### [Гайд по запуску сборки](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/how-to-play.md)
 
 *Обязательны к установке. Без них не пустит на сервер.*</br>
-*Последнее обновление: 17.09.2024 17:30 UTC+3*</br>
-**Основные моды:** [MinecraftModsV3_Main-1.1.0.zip](https://disk.yandex.ru/d/xBx8I-RqsypGEw)
-
-*Упрощают некоторые аспекты игры, такие как сортировка, мини карта и тд.*</br>
-*Последнее обновление: 16.09.2024 17:00 UTC+3*</br>
-**Вспомогательные моды:** [MinecraftModsV3_Client-1.0.0.zip](https://disk.yandex.ru/d/P2zR9qGWa9Kp2A)
+**Основные моды:** [MinecraftModsV3-1.2.0.zip](https://disk.yandex.ru/d/umIjjLtMUaF1qg)
 
 ___
 
