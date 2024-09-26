@@ -29,19 +29,19 @@ ___
 
 ## Игрокам
 
-### [Правила сервера](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
-### [Авторизация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
+### [Правила сервера](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/server-mods.md)
+### [Авторизация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/auth.md)
 ### [Коммуникация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/players-communication.md)
-### [Дома и варпы](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
-### [Приват территории](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
-### [Направления в развитии](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
+### [Дома и варпы](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/homes-and-warps.md)
+### [Приват территории](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/regions.md)
+### [Направления в развитии](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/server-mods.md)
 
 ___
 
 ## Модераторам
 
-### [Коммуникация модераторов](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/moder-communication.md)
-### [Команды для модераторов](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/moder-communication.md)
+### [Коммуникация модераторов](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/moder/moder-communication.md)
+### [Команды для модераторов](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/moder/moder-commands.md)
 
 ___
 
