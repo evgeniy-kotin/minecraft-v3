@@ -30,7 +30,7 @@ ___
 ## Игрокам
 
 ### [Правила сервера](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/server-rules.md)
-### [Авторизация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/auth.md)
+### [Начало игры](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/start.md)
 ### [Коммуникация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/players-communication.md)
 ### [Дома и варпы](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/homes-and-warps.md)
 ### [Приват территории](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/regions.md)
