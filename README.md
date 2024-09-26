@@ -29,13 +29,19 @@ ___
 
 ## Игрокам
 
+### [Правила сервера](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
+### [Авторизация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
 ### [Коммуникация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/players-communication.md)
+### [Дома и варпы](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
+### [Приват территории](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
+### [Направления в развитии](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/.md)
 
 ___
 
 ## Модераторам
 
-### [Коммуникация администрации](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/moder-communication.md)
+### [Коммуникация модераторов](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/moder-communication.md)
+### [Команды для модераторов](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/moder-communication.md)
 
 ___
 
