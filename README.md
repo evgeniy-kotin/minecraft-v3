@@ -24,7 +24,7 @@ ___
 ### [Гайд по запуску сборки](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/how-to-play.md)
 
 *Обязательны к установке. Без них не пустит на сервер.*</br>
-**Основные моды:** [MinecraftModsV3-1.2.0.zip](https://disk.yandex.ru/d/umIjjLtMUaF1qg)
+**Основные моды:** [MinecraftModsV3-1.3.0.zip](https://disk.yandex.ru/d/cpfskPEUFX1UWQ)
 ___
 
 ## Игрокам
