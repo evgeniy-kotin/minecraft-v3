@@ -46,7 +46,7 @@ ___
 
 ## Список модов
 
-- **Industrial Craft 2 Experimental**
+- [**Industrial Craft 2 Experimental**](https://minecraft-inside.ru/mods/9559-industrial-craft-2-mod.html)
   - *Advanced Solar Panels*
   - *Advanced Machines*
   - *Gravitation Suite*
@@ -54,10 +54,10 @@ ___
   - *Electro Magic Tools*
   - *tatw*
   - *oresalleasy*
-- **Applied Energistics**
+- [**Applied Energistics**](https://minecraft-inside.ru/mods/11203-applied-energistics-2-mod.html)
   - *AE2 Stuff*
   - *Extra Cells*
-- **Thaumcraft**
+- [**Thaumcraft**](https://minecraft-inside.ru/mods/9452-thaumcraft-mod.html)
   - *Thaumic Tinkerer*
   - *Thaumic Additions: reconstructed*
   - *Thaumic Augmentation*
@@ -65,20 +65,20 @@ ___
   - *Thaumic Bases*
   - *Crimson Revelations*
   - *Thaumic Periphery*
-- **Forestry**
+- [**Forestry**](https://minecraft-inside.ru/mods/10266-forestry-mod.html)
   - *Binnie's Mods*
-- **Tinker Construct**
+- [**Tinker Construct**](https://minecraft-inside.ru/mods/10312-tinkers-construct-mod.html)
   - *Taiga*
   - *Constructs Armory*
-- **Build Craft**
-- **Biblio Craft**
-- **Draconic Evolution**
-- **Iron Chest**
-- **Useful Backpacks**
-- **Mo-Creatures**
-- **BiomesOPlenty**
-- **Ellie More Sweetness Valley**
-- **The Twilight Forest**
+- [**Build Craft**](https://minecraft-inside.ru/mods/9945-buildcraft-mod.html)
+- [**Biblio Craft**](https://minecraft-inside.ru/mods/8905-bibliocraft-mod.html)
+- [**Draconic Evolution**](https://minecraft-inside.ru/mods/10662-raconic-evolution-mod.html)
+- [**Iron Chest**](https://minecraft-inside.ru/mods/9309-iron-chests-mod.html)
+- [**Useful Backpacks**](https://minecraft-inside.ru/mods/79560-useful-backpacks.html)
+- [**Mo-Creatures**](https://minecraft-inside.ru/mods/9173-mocreatures-mod.html)
+- [**BiomesOPlenty**](https://minecraft-inside.ru/mods/9043-biomes-o-plenty-mod.html)
+- [**Sweetness Valley**](https://minecraft-inside.ru/mods/172392-sweetness-valley.html)
+- [**The Twilight Forest**](https://minecraft-inside.ru/mods/9549-the-twilight-forest-mod.html)
 - **Replanting Crops**
-- **Ice and Fire**
-- **Cosmetic Armor Reworked**
+- [**Ice and Fire**](https://minecraft-inside.ru/mods/50406-ice-and-fire.html)
+- [**Cosmetic Armor Reworked**](https://minecraft-inside.ru/mods/35956-cosmetic-armor-reworked.html)
