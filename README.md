@@ -33,7 +33,7 @@ ___
 ### [Начало игры](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/start.md)
 ### [Коммуникация](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/players-communication.md)
 ### [Дома и варпы](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/homes-and-warps.md)
-### [Приват территории](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/regions.md)
+### [Регионы](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/regions.md)
 ### [Направления в развитии](https://github.com/evgeniy-kotin/minecraft-v3/blob/main/guides/server-mods.md)
 
 ___
