@@ -28,9 +28,9 @@ ___
 
 ### Текстурпаки
 
-[Текстуры 32х32](https://disk.yandex.ru/d/eLFkCRFN47alvg)
-[Текстуры 64х64](https://disk.yandex.ru/d/NJAFvzlajt9V5w)
-[Текстуры 128х128](https://disk.yandex.ru/d/QVoXiBU2x_7FNQ)
+[Текстуры 32х32](https://disk.yandex.ru/d/eLFkCRFN47alvg)</br>
+[Текстуры 64х64](https://disk.yandex.ru/d/NJAFvzlajt9V5w)</br>
+[Текстуры 128х128](https://disk.yandex.ru/d/QVoXiBU2x_7FNQ)</br>
 
 ### Шейдеры
 
