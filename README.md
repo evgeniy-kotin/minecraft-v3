@@ -25,6 +25,16 @@ ___
 
 *Обязательны к установке. Без них не пустит на сервер.*</br>
 **Основные моды:** [MinecraftModsV3-1.3.0.zip](https://disk.yandex.ru/d/cpfskPEUFX1UWQ)
+
+### Текстурпаки
+
+[Текстуры 32х32](https://disk.yandex.ru/d/eLFkCRFN47alvg)
+[Текстуры 64х64](https://disk.yandex.ru/d/NJAFvzlajt9V5w)
+[Текстуры 128х128](https://disk.yandex.ru/d/QVoXiBU2x_7FNQ)
+
+### Шейдеры
+
+[Шейдеры Complementary](https://disk.yandex.ru/d/0SGRWdeP5Eo86Q)
 ___
 
 ## Игрокам
