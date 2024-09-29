@@ -34,7 +34,9 @@ ___
 
 ### Шейдеры
 
-[Шейдеры Complementary](https://disk.yandex.ru/d/0SGRWdeP5Eo86Q)
+[Шейдеры MakeUp Ultra fast (Low)](https://disk.yandex.ru/d/kZ5kx1yBxVFMUQ)
+[Шейдеры BSL (Medium)](https://disk.yandex.ru/d/ezLPlVy6eojzTg)
+[Шейдеры Complementary (High)](https://disk.yandex.ru/d/0SGRWdeP5Eo86Q)
 ___
 
 ## Игрокам
