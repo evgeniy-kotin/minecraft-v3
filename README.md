@@ -84,6 +84,7 @@ ___
   - *Constructs Armory*
 - [**Ice and Fire**](https://minecraft-inside.ru/mods/50406-ice-and-fire.html)
 - [**Draconic Evolution**](https://minecraft-inside.ru/mods/10662-raconic-evolution-mod.html)
+- [**Botania**](https://minecraft-inside.ru/mods/9729-botania-mod.html)
 - [**The Twilight Forest**](https://minecraft-inside.ru/mods/9549-the-twilight-forest-mod.html)
 - [**Build Craft**](https://minecraft-inside.ru/mods/9945-buildcraft-mod.html)
 - [**Mo-Creatures**](https://minecraft-inside.ru/mods/9173-mocreatures-mod.html)
